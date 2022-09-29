@@ -1,0 +1,7 @@
+print('hello world'.capitalize())
+print('hello world'.upper())
+print('HELLO WORLD'.lower())
+print('hello world'.__len__())
+print(len('19960615'))
+print('Hello world'.replace('world', 'programming'))
+print('내일은 집 가는 날'.replace('집', '학교'))
